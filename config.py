@@ -38,8 +38,8 @@ import init_screens
 config_path = '/home/sam/.config/qtile'
 icons = os.path.join(config_path,'icons')
 
-alt = "mod1"
-mod = "mod4"
+alt = "mod4"
+mod = "mod1"
 terminal = guess_terminal()
 #temrinal = 'alacritty'
 #terminal = 'konsole'
